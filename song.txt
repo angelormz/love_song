@@ -1,0 +1,3 @@
+Esta es una canción dedicada a todos los que están aprendiendo programación
+Y desean mejorar día con día. Ahora nos tocó aprender a usar Git
+Y estamos muy felices de estar aprendiendo y aplicando estos conocimientos.
